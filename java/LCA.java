@@ -1,5 +1,5 @@
 //code taken from https://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/
-package LCA;
+
 
 import java.util.ArrayList;
 import java.util.List;
