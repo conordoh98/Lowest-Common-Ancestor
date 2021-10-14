@@ -1,2 +1,2 @@
-Run LCAtest.java**<br />**
+Run LCAtest.java<br />
 Observe j unit tests passing
